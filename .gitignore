@@ -1,0 +1,7 @@
+# Ignored folders
+.idea
+.build
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/java/test/
